@@ -15,41 +15,6 @@
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-digital-literacy-project/
-│
-├── README.md                          ← You are here
-│
-├── report/
-│   └── Project_Report.docx            ← Full written project report
-│
-├── task-1-presentation/
-│   ├── infographic.png                ← Exported Canva infographic
-│   └── description.txt                ← Tool used & design notes
-│
-├── task-2-portfolio/
-│   ├── github-profile.png             ← Screenshot of GitHub profile
-│   ├── linkedin-profile.png           ← Screenshot of LinkedIn profile
-│   └── stackoverflow-profile.png      ← Screenshot of Stack Overflow profile
-│
-├── task-3-platforms/
-│   ├── codechef-challenge.png         ← Completed challenge screenshot
-│   ├── google-form-screenshot.png     ← Digital Literacy Quiz form view
-│   └── google-sheet-screenshot.png   ← Linked response sheet view
-│
-├── task-4-email-etiquette/
-│   ├── Professional_Emails_Divyansh.docx  ← Two professional email drafts
-│   └── social-media-checklist.txt         ← Do's & Don'ts checklist
-│
-└── task-5-cybercrime/
-    ├── casestudy.md                   ← Phishing case study
-    └── prevention-checklist.md        ← Stay Safe Online checklist
-```
-
----
-
 ## 📋 Module Summaries
 
 ### ✅ Task 1 — Digital Literacy Awareness Infographic `(Module 1 | 20 marks)`
